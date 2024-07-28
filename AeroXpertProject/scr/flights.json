@@ -1,0 +1,24 @@
+[
+    {
+        "airline": "Luftansa",
+        "bookedSeats": 23,
+        "capacity": 320,
+        "charge": 7000.0,
+        "departureTime": "12:20",
+        "destination": "Mumbai",
+        "distance": 450,
+        "flightNumber": "GC12",
+        "origin": "Delhi"
+    },
+    {
+        "airline": "Etihad",
+        "bookedSeats": 0,
+        "capacity": 45,
+        "charge": 21000.0,
+        "departureTime": "3:49",
+        "destination": "noida",
+        "distance": 230,
+        "flightNumber": "Df34",
+        "origin": "Kerla"
+    }
+]
